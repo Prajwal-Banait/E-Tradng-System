@@ -1,0 +1,38 @@
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.DAL.deps.json
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.DAL.runtimeconfig.json
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.DAL.dll
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.DAL.pdb
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.EFCore.dll
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.Entities.dll
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.EFCore.pdb
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.Entities.pdb
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.csproj.AssemblyReference.cache
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.AssemblyInfoInputs.cache
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.AssemblyInfo.cs
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.csproj.CoreCompileInputs.cache
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.csproj.CopyComplete
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.dll
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\refint\ETradingSystem1.DAL.dll
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.pdb
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.genruntimeconfig.cache
+D:\vs std\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ref\ETradingSystem1.DAL.dll
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.DAL.deps.json
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.DAL.runtimeconfig.json
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.DAL.dll
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.DAL.pdb
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.EFCore.dll
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.Entities.dll
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.EFCore.pdb
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\bin\Debug\net6.0\ETradingSystem1.Entities.pdb
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.csproj.AssemblyReference.cache
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.AssemblyInfoInputs.cache
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.AssemblyInfo.cs
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.csproj.CopyComplete
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.dll
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\refint\ETradingSystem1.DAL.dll
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.pdb
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ETradingSystem1.DAL.genruntimeconfig.cache
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1DAL\obj\Debug\net6.0\ref\ETradingSystem1.DAL.dll

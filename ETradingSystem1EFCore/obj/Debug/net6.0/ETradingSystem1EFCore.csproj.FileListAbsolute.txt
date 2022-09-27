@@ -1,0 +1,14 @@
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1EFCore.deps.json
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1EFCore.runtimeconfig.json
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1EFCore.dll
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1EFCore.pdb
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1EFCore.csproj.AssemblyReference.cache
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1EFCore.AssemblyInfoInputs.cache
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1EFCore.AssemblyInfo.cs
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1EFCore.csproj.CoreCompileInputs.cache
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1EFCore.dll
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\refint\ETradingSystem1EFCore.dll
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1EFCore.pdb
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1EFCore.genruntimeconfig.cache
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ref\ETradingSystem1EFCore.dll

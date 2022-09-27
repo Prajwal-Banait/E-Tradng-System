@@ -1,0 +1,34 @@
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1.EFCore.deps.json
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1.EFCore.runtimeconfig.json
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1.EFCore.dll
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1.EFCore.pdb
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1.Entities.dll
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1.Entities.pdb
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.csproj.AssemblyReference.cache
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.AssemblyInfoInputs.cache
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.AssemblyInfo.cs
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.csproj.CoreCompileInputs.cache
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.csproj.CopyComplete
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.dll
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\refint\ETradingSystem1.EFCore.dll
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.pdb
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.genruntimeconfig.cache
+D:\vs std\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ref\ETradingSystem1.EFCore.dll
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1.EFCore.deps.json
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1.EFCore.runtimeconfig.json
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1.EFCore.dll
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1.EFCore.pdb
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1.Entities.dll
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\bin\Debug\net6.0\ETradingSystem1.Entities.pdb
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.csproj.AssemblyReference.cache
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.AssemblyInfoInputs.cache
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.AssemblyInfo.cs
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.csproj.CopyComplete
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.dll
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\refint\ETradingSystem1.EFCore.dll
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.pdb
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ETradingSystem1.EFCore.genruntimeconfig.cache
+C:\Users\mp4pr\Desktop\ETradingSystem1\ETradingSystem1EFCore\obj\Debug\net6.0\ref\ETradingSystem1.EFCore.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nnZdhM6AT1EQaAtR7Frp4tzis5PajPo8QagVzsjtBwE=",
+  "Source": "ETradingSystem1.WebApi",
+  "BasePath": "_content/ETradingSystem1.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
